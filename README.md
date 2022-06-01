@@ -7,4 +7,4 @@ Bachelor thesis: Methods for the comparison of multiple smart meter measurement 
 My first experience with Python 
 
 
-In the folder 'presentation', there are my bachelor thesis presentation ppt file and other plots 
+In the folder 'presentation', there are my bachelor thesis presentation ppt file and other sample plots 
